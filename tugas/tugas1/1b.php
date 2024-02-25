@@ -1,5 +1,5 @@
 <?php
-$npm_ade = 08; // Ganti dengan dua digit terakhir NPM Anda
+$npm_ade = 8; // Ganti dengan dua digit terakhir NPM Anda
 echo "Aku adalah angka <strong> $npm_ade </strong> <br>";
 $npm_ade *= 5;
 echo "Jika aku dikali 5, maka aku sekarang menjadi <strong> $npm_ade </strong> <br>";
